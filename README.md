@@ -16,4 +16,7 @@ The conclusion which i get after doing EDA on SampleSuperstore are :
 13.  For increasing the profits , we need to sell more to the states which are liking our products like NEWYORK and CALIFORNIA .
 14.  Hence To get good profit in any business you have to focus on increasing sales but not giving more discount.
 
+
+Tableau Public Link of Dashboard : https://lnkd.in/g-ngCYy
+
 # Thank You!!
