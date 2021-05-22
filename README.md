@@ -1,5 +1,5 @@
-# Task #3 Exploratory-Data-Analysis-on-SampleSuperstore
-This is Task-3 given by The Sparks Foundation, In this task we have to perform Exploratory data analysis on SampleSuperstore dataset and to try to find out the weak areas where we can work to make more profit, and also to make dashboard on performance of SampleSuperstore. 
+#Exploratory-Data-Analysis-on-SampleSuperstore
+In this I have  perform Exploratory data analysis on SampleSuperstore dataset and to try to find out the weak areas where we can work to make more profit, and also to make dashboard on performance of SampleSuperstore. 
 The conclusion which i get after doing EDA on SampleSuperstore are :
 1.   Total sales in US is 2296195.5903
 2.   Total profit in US is 286241.4226
